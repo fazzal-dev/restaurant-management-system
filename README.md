@@ -26,7 +26,7 @@ Savora is a comprehensive restaurant management system designed to streamline va
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Savora.git
+    git clone https://github.com/fazzal-dev/Savora.git
     ```
 
 2. Navigate to the project directory:
