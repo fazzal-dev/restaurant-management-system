@@ -1,4 +1,4 @@
-# Savora - Restaurant Management System
+#  Restaurant Management System
 
 Savora is a comprehensive restaurant management system designed to streamline various aspects of restaurant operations, including product and staff management, table management, and more.
 
